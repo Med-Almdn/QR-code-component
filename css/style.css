@@ -1,0 +1,49 @@
+/* Start Variables */
+
+/* End Variables */
+/* Start Global Rules */
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Outfit', sans-serif;
+}
+/* End Global Rules */
+.parent {
+    background-color: hsl(212, 45%, 89%);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+    width: 320px;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 10px;
+}
+.text{
+    padding:0 15px;
+
+}
+img{
+    width: 100%;
+    border-radius: 10px;
+}
+.heading{ 
+    font-size: 22px;
+    font-weight: 700;
+    text-align: center;
+}
+.p1{
+    font-size: 15px;
+    font-weight: 400;
+    text-align: center;
+    color: hsl(218, 44%, 22%);
+}
+
+
